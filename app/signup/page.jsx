@@ -16,24 +16,24 @@ const page = () => {
           <input
             type="text"
             placeholder="Full name"
-            className="block w-1/2 rounded-md border-0 dark:bg-medium text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 p-2 focus:outline-sky-400"
+            className="block w-full rounded-md border-0 dark:bg-medium text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 p-2 focus:outline-sky-400"
           />
           <input
             type="email"
             placeholder="Your email"
-            className="block w-1/2 rounded-md border-0 dark:bg-medium text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 p-2 focus:outline-sky-400"
+            className="block w-full rounded-md border-0 dark:bg-medium text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 p-2 focus:outline-sky-400"
           />
           <input
             type="password"
             placeholder="Enter password"
-            className="block w-1/2 rounded-md border-0 dark:bg-medium text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 p-2 focus:outline-sky-400"
+            className="block w-full rounded-md border-0 dark:bg-medium text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 p-2 focus:outline-sky-400"
           />
           <input
             type="password"
             placeholder="Confirm password"
-            className="block w-1/2 rounded-md border-0 dark:bg-medium text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 p-2 focus:outline-sky-400"
+            className="block w-full rounded-md border-0 dark:bg-medium text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 p-2 focus:outline-sky-400"
           />
-          <button className="w-1/4 bg-sky-400 p-2 rounded-md text-gray-50 shadow-lg hover:bg-sky-300 duration-500">
+          <button className="w-1/2 bg-sky-400 p-2 rounded-md text-gray-50 shadow-lg hover:bg-sky-300 duration-500">
             Sign up
           </button>
         </form>
