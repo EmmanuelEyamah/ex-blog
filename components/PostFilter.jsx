@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 import { posts } from "../constants/posts";
 import { useEffect } from "react";
