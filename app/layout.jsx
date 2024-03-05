@@ -9,7 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "EX BlOG",
+  title: "EX BLOG",
   description: "Tech Blog",
 };
 
